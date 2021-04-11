@@ -33,6 +33,7 @@
                         </figure>
                         <p v-html="product.title" style="font-size: 19px;"></p>
                         <p v-html="product.description"></p>
+                        <p v-html="product.availableInventory"></p>
                         <button class="btn btn-primary" v-on:click="addToCart(product)" v-if="canAddToCart(product)">Add to cart</button>
                         <button disabled="disabled" v-else>Add to cart</button>
                         <span v-if="product.availableInventory === cartCount(product.id)">All out!</span>

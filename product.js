@@ -5,7 +5,7 @@ let products = [{
             "agriculture as a whole",
         price: "$3.99",
         image: 'image/agric.jpg',
-        availableInventory: 10,
+        availableInventory: "10 spaces left",
         rating: 3
     },
     {

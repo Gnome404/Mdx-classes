@@ -51,7 +51,7 @@ let products = [{
     {
         id: 116,
         title: "Cooking",
-        description: "Cooking is a <em> irresistible </em>," +
+        description: "Cooking is an art <em> irresistible </em>," +
             "Expressing our in depth feelings.",
         price: "$3.40",
         image: 'image/cooking.jpg',

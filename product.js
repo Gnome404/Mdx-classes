@@ -52,7 +52,7 @@ let products = [{
         id: 116,
         title: "Cooking",
         description: "Cooking is an art <em> irresistible </em>," +
-            "Expressing our in depth feelings.",
+            "of life that we all cant do without.",
         price: "$3.40",
         image: 'image/cooking.jpg',
         availableInventory: 10,

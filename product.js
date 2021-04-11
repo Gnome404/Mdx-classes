@@ -48,4 +48,14 @@ let products = [{
         availableInventory: 10,
         rating: 4
     },
+    {
+        id: 116,
+        title: "Music",
+        description: "Music is a way of <em> irresistible </em>," +
+            "Expressing our in depth feelings.",
+        price: "$3.50",
+        image: 'image/music.jpg',
+        availableInventory: 10,
+        rating: 4
+    },
 ]

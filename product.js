@@ -55,7 +55,7 @@ let products = [{
             "of life that we all cant do without.",
         price: "$3.40",
         image: 'image/cooking.jpg',
-        availableInventory: 10,
+        availableInventory: "10 spaces",
         rating: 5
     },
 ]

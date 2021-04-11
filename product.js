@@ -15,7 +15,7 @@ let products = [{
             "to cool off and be in a relaxed state.",
         price: "$2.99",
         image: 'image/swim.jpg',
-        availableInventory: 10,
+        availableInventory: "10 spaces left",
         rating: 5
     },
     {

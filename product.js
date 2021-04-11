@@ -50,12 +50,12 @@ let products = [{
     },
     {
         id: 116,
-        title: "Music",
-        description: "Music is a way of <em> irresistible </em>," +
+        title: "Cooking",
+        description: "Cooking is a <em> irresistible </em>," +
             "Expressing our in depth feelings.",
-        price: "$3.50",
-        image: 'image/music.jpg',
+        price: "$3.40",
+        image: 'image/cooking.jpg',
         availableInventory: 10,
-        rating: 4
+        rating: 5
     },
 ]

@@ -45,7 +45,7 @@ let products = [{
             "Expressing our in depth feelings.",
         price: "$3.50",
         image: 'image/music.jpg',
-        availableInventory: 10,
+        availableInventory: "10 spaces left",
         rating: 4
     },
     {

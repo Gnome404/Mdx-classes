@@ -25,7 +25,7 @@ let products = [{
             "shake off fatigue.",
         price: "$2.50",
         image: 'image/sports.jpg',
-        availableInventory: 10,
+        availableInventory: "10 spaces left",
         rating: 4
     },
     {

@@ -35,7 +35,7 @@ let products = [{
             "useful in our students day to day activities.",
         price: "$3.99",
         image: 'image/martial.jpg',
-        availableInventory: 10,
+        availableInventory: "10 spaces left",
         rating: 5
     },
     {
